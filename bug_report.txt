@@ -4,7 +4,7 @@ Summary: "Loggin Page. The button 'Sigh in' not responding after clicking on it"
 STR:
     1) Open the login page
     2) Enter username and password
-    3) Click on the button "Sigh in"
+    3) Click on the button 'Sigh in'
 Result: "The button 'Sigh in' not responding after clicking on it"
 Expected result: "After clicking the button, the user page opens"
 Severity: Major
