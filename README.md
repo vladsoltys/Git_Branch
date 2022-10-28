@@ -1,4 +1,11 @@
 # GitHub. HW_2
+**Studied on the course:**
+```
+Creating, moving, editing of files, writing a script, creating of branches, 
+moving across branches, merging branches on the local and remote repository 
+(pwd, mkdir, cd, touch, ls -la, vim, mv, cp, find, tail, head, less, 
+(#!/bin/bash), git brunch, git checkout, git merge)
+```
 
 ## Git_Branch_commands
 
